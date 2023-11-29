@@ -1,0 +1,17 @@
+{
+  "name": "purchase-anything-telegram",
+  "version": "1.0.0",
+  "description": "Projeto de web scriping para compra de produtos automatizada com minhas lojas preferidas",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joao Vitor Aguiar Silva",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.5.2"
+  }
+}
